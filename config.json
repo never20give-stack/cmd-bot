@@ -14,13 +14,13 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "XM8ADMIN",
-  "prefix": "!",
+  "prefix": "#",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "1460925011692644",
+    "61577909267751",
     "100087625774227",
     "61584035788710"
   ],
